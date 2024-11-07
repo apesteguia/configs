@@ -1,0 +1,35 @@
+#[font]
+#size = 13.0
+
+#[font.normal]
+#family = "Hack Nerd Font Mono"
+
+
+live_config_reload = true
+[font]
+#normal.family = "Hack Nerd Font"
+normal.family = "JetBrainsMono Nerd Font"
+italic.style = "Regular"
+
+size = 13.0
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+decorations = "None"
+title = "[mikel@Alacritty]"
+dynamic_title = false
+
+[scrolling]
+history = 5000
+
+[selection]
+save_to_clipboard = true
+
+[cursor]
+vi_mode_style.shape = "Block"
+unfocused_hollow = true
+
+[mouse]
+hide_when_typing = true
