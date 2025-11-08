@@ -9,3 +9,6 @@ cp config ~/.config/ghostty/
 cp mikel.zsh-theme ~/.oh-my-zsh/themes/
 
 cp .tmux.conf ~/
+
+mkdir ~/.config/hypr/
+cp hyprland.conf ~/.config/hypr/
